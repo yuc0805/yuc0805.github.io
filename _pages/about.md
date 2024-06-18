@@ -12,3 +12,9 @@ I am a first-year Data Science Master's student at UC San Diego. My research int
 You can find my CV here: [Yuliang Chen's Curriculm Vitae](../assets/Chen_Yuliang_DSCV.pdf).
 
 [Email](mailto: yuc204@ucsd.edu) / [Github](https://github.com/yuc0805) / [Linkedin](https://www.linkedin.com/in/yuliang-chen-74666b236/)
+
+**Projects**
+
+
+
+**Recent News**
