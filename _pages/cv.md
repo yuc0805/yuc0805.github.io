@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Data Science, University of California, San Diego, 2025
 * B.S. in Mathematics and Statistics, University of California, Santa Barbara, 2022
 
@@ -31,23 +30,7 @@ Work experience
 Skills
 ======
 * Python/Pytorch
-#* Skill 2
-  #* Sub-skill 2.1
-  #* Sub-skill 2.2
-  #* Sub-skill 2.3
 * R
 * Data Analysis
 * Parallel Computing
-  
-#Publications
-#======
-  #<ul>{% for post in site.publications reversed %}
-   # {% include archive-single-cv.html %}
- # {% endfor %}</ul>
-  
-#Talks
-#======
-  #<ul>{% for post in site.talks reversed %}
-   # {% include archive-single-talk-cv.html  %}
-  #{% endfor %}</ul>
   
