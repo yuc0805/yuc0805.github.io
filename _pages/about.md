@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Leo Yuliang Chen"
+title: "Yuliang(Leo) Chen"
 author_profile: true
 redirect_from: 
   - /about/
