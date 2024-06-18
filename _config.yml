@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yuliang(Leo) Chen"
-  pronouns         : # example: "she/her"  
-  bio              : "Fist-year Master Student, University of California, San Diego (UCSD)"
+  #pronouns         : # example: "she/her"  
+  bio              : "Fist-year Data Science Master Student"
   location         : "La Jolla, California"
   employer         : "University of California, San Diego"
-  uri              : # URL
+  #uri              : # URL
   email            : "yuc204@ucsd.edu" 
 
   # Academic websites
