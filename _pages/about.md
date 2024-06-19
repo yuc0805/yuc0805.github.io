@@ -41,7 +41,7 @@ This literature review examines the challenges and strategies associated with ex
 
 ### An Empirical Study on Optimizers Selection
 **Fall 2023**  
-Conducting an empirical study to analyze the selection of optimizers, including SGD, RMSProp, ADAM, and BFGS, in machine learning. The project aims to offer insights and guidelines for choosing the most effective optimizer for various models and datasets under different real-world constraints.
+Conducting an empirical study to analyze the selection of optimizers, including SGD, RMSProp, Adam, and BFGS, in machine learning. The project aims to offer insights and guidelines for choosing the most effective optimizer for various models and datasets under different real-world constraints.
 
 **Recent News**
 
