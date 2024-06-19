@@ -14,11 +14,6 @@ You can find my CV here: [Yuliang Chen's Curriculm Vitae](../assets/Chen_Yuliang
 [Email](mailto: yuc204@ucsd.edu) / [Github](https://github.com/yuc0805) / [Linkedin](https://www.linkedin.com/in/yuliang-chen-74666b236/)
 
 **Projects**
-Here is an organized format for the **Projects** section on your GitHub.io website:
-
----
-
-## Projects
 
 ### Foundation Model on Physiological Signals
 **Ongoing Project** 
