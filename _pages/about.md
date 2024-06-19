@@ -13,7 +13,8 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/Chen_Yulian
 
 [Email](mailto:yuc204@ucsd.edu) / [Github](https://github.com/yuc0805) / [LinkedIn](https://www.linkedin.com/in/yuliang-chen-74666b236/)
 
-**Projects**
+---
+##Projects
 
 ### Foundation Model on Physiological Signals
 **Ongoing Project**  
@@ -43,7 +44,8 @@ This literature review examines the challenges and strategies associated with ex
 **Fall 2023**  
 Conducting an empirical study to analyze the selection of optimizers, including SGD, RMSProp, Adam, and BFGS, in machine learning. The project aims to offer insights and guidelines for choosing the most effective optimizer for various models and datasets under different real-world constraints.
 
-**Recent News**
+---
+###Recent News
 
 - [March 2024] Joined MOSAIC Lab as a Research Assistant, collaborating with Yunfei Luo under the advisement of Professor Tauhidur Rahman!
 - [September 2023] Began the Data Science Master's program at UCSD!
