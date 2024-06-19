@@ -52,6 +52,7 @@ Conducting an empirical study to analyze the selection of optimizers, including 
 
 
 **Recent News**
+
 [March 2024] Joined MOSAIC Lab as a Research Assistant, collaborating with Yunfei Luo under the advisement of Professor Tauhidur Rahman!
 
 [September 2023] Began the Data Science Master's program at UCSD!
