@@ -49,14 +49,12 @@ Description: This literature review examines the challenges and strategies assoc
 Conducting an empirical study to analyze the selection of optimizers, including SGD, RMSProp, ADAM, and BFGS, in machine learning. The project aims to offer insights and guidelines for choosing the most effective optimizer for various models and datasets under different real-world constraints.
 
 
-
-
----
-
-Feel free to adjust the descriptions as needed and let me know if you need any further assistance!
-
 **Recent News**
 [March 2024] Joined MOSAIC Lab as a Research Assistant, collaborating with Yunfei Luo under the advisement of Professor Tauhidur Rahman!
+
 [September 2023] Began the Data Science Master's program at UCSD!
+
 [October 2022] Started working as a Supply Chain Analyst at Micro Ingredients!
+
 [June 2022] Graduated from UCSB with a dual major in Mathematics and Statistics-Data Science!
+
