@@ -27,9 +27,6 @@ Developing a foundation model with self-supervised learning for analyzing and in
 ### VitT: Vision-Topological Transformer for Medical Image Classification
 *Spring 2024*  
 Introducing the VitT model, which incorporates task-specific topological features into a pre-trained ViT using a lightweight persistent diagram encoder and fusion layer, resulting in better performance than vanilla ViT linear probing with minimal computational cost.
-### An Empirical Study of Image Style Transfer
-*Spring 2024*  
-Conducting a comprehensive empirical study on various techniques for image style transfer. The project aims to evaluate the performance and efficiency of different style transfer methods.
 ### E-StyTR^2: Efficient Image Style Transfer with Transformers
 *Spring 2024*  
 Optimizing the StyTr^2 framework for image style transfer by reducing computational demands with minimal performance tradeoffs, and an integrated ablation study examines the impact of various components to enhance overall efficiency and effectiveness.
