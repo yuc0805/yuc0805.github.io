@@ -27,6 +27,7 @@ Pioneered the application of self-supervised learning paradigms to develop found
 time-series data, enabling superior performance across a diverse array of downstream tasks, including prediction,
 anomaly detection, and classification.
 ### [Vivid Panels: Deep Neural Networks for Manga Colorization](https://github.com/yuc0805/Manga-Colorization)
+*Spring 2024*  
 This study explores fine-tuning pre-trained GAN-based models for manga colorization, highlighting the performance gains achieved by addressing distribution differences between task-specific inputs and pre-training data.
 ### [VitT: Vision-Topological Transformer for Medical Image Classification](https://github.com/j8chiu/PH_ImageClassification/tree/ViT_Branch)
 *Spring 2024*  
