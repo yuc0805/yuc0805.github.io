@@ -17,7 +17,7 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/Chen_Yulian
 ## Recent News
 - [March 2024] Joined [MOSAIC Lab](https://mosaic.cs.umass.edu/) as a Research Assistant, collaborating with [Yunfei Luo](https://yunfeiluo.github.io/) under the advisement of [Professor Tauhidur Rahman](https://www.tauhidurrahman.com/)!
 - [September 2023] Began the Data Science Master's program at UCSD!
-- [October 2022] Started working as a Supply Chain Analyst at Micro Ingredients!
+- [October 2022] Started working as a Supply Chain Analyst at [Micro Ingredients](https://www.microingredients.com/pages/our-company?gad_source=1&gclid=Cj0KCQjwj9-zBhDyARIsAERjds1qGT5v_rVpX3wSDzpRVlRLmeyaNjzhtea0Y9blRyEnD4BULGxeJB0aAo_IEALw_wcB)!
 - [June 2022] Graduated from UCSB with a dual major in Mathematics and Statistics-Data Science!
   
 ## Projects
