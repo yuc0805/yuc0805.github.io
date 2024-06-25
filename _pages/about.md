@@ -39,6 +39,6 @@ Developed an image-to-image retrieval system using CLIP, demonstrating its super
 ### Navigating the Landscape of Explanation Multiplicity
 *Fall 2023*  
 Investigated the challenges and strategies related to explanation multiplicity in machine learning models, highlighting the implications of multiple explanations for model decisions and developing effective methods to manage them.
-### Navigating the Landscape of Explanation Multiplicity
+### MAE-Fundus: Foundation Model for Retinal Disease Classification using Masked Autoencoders
 *Fall 2023*  
 Investigated the challenges and strategies related to explanation multiplicity in machine learning models, highlighting the implications of multiple explanations for model decisions and developing effective methods to manage them.
