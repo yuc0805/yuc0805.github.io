@@ -38,6 +38,7 @@ Investigated various fusion modules based on StyTr2 to effectively blend style a
 Developed an image-to-image retrieval system using CLIP, demonstrating its superior ability to capture robust and generalized image representations compared to traditional CNNs like ResNet.
 ### MAE-Fundus: Foundation Model for Retinal Disease Classification using Masked Autoencoders
 *Fall 2023*
+
 Developed foundation model for fundus image analysis using Masked Autoencoders (MAE) under the supervision of Professor Pengtao Xie.
 ### Navigating the Landscape of Explanation Multiplicity
 *Fall 2023*  
