@@ -33,7 +33,7 @@ Introduced the VitT model, strengthening Vision Transformer (ViT) with lightweig
 ### [E-StyTR^2: Efficient Image Style Transfer with Transformers](https://github.com/yuc0805/Image_Style_Transfer)
 *Spring 2024*  
 Investigated various fusion modules based on StyTr2 to effectively blend style and content, evaluating their efficiency and aesthetic quality using quantitative metrics.
-### MAE-Fundus: Foundation Model for Retinal Disease Classification using Masked Autoencoders
+### MAE-Fundus: Foundation Model On Retinal Images using Masked Autoencoders
 *Fall 2023,Winter 2024*  
 Developed foundation model for fundus image analysis using Masked Autoencoders (MAE) under the supervision of Professor Pengtao Xie.
 ### [Image-to-Image Retrieval with CLIP](https://github.com/yuc0805/Image-to-Image-Search-Using-CLIP)
