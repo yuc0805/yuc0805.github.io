@@ -15,6 +15,8 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 
 
 ## Recent News
+- [Oct 2024] Submitted a paper to ICLR 2025 for review with Yunfei!
+- [July 2024] Started working as a graduate student researcher under the supervision of [Jingjing Zou](https://profiles.ucsd.edu/jingjing.zou) on an NIH-funded project!
 - [March 2024] Joined [MOSAIC Lab](https://mosaic.cs.umass.edu/) as a Research Assistant, collaborating with [Yunfei Luo](https://yunfeiluo.github.io/) under the advisement of [Professor Tauhidur Rahman](https://www.tauhidurrahman.com/)!
 - [September 2023] Began the Data Science Master's program at UCSD!
 - [October 2022] Started working as a Supply Chain Analyst at [Micro Ingredients](https://www.microingredients.com/pages/our-company?gad_source=1&gclid=Cj0KCQjwj9-zBhDyARIsAERjds1qGT5v_rVpX3wSDzpRVlRLmeyaNjzhtea0Y9blRyEnD4BULGxeJB0aAo_IEALw_wcB)!
