@@ -26,6 +26,9 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 **Anonymous**. *Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals*. Submitted to The Thirteenth International Conference on Learning Representations (ICLR), 2025. *Under review*.
 
 ## Projects
+### Examining Longitudinal Changes in Accelerometer-Measured Physical Activity in Preventing Cardiovascular Disease with Novel Function Data Analysis Approaches (Funded by NIH)
+*Summer 2024*
+Advisor: Jingjing Zou
 ### [Vivid Panels: Deep Neural Networks for Manga Colorization](https://github.com/yuc0805/Manga-Colorization)
 *Spring 2024*  
 Explored fine-tuning pre-trained GAN-based models for manga colorization, highlighting the performance gains achieved by addressing distribution differences between task-specific inputs and pre-training data.
