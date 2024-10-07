@@ -21,11 +21,11 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 - [September 2023] Began the Data Science Master's program at UCSD!
 - [October 2022] Started working as a Supply Chain Analyst at [Micro Ingredients](https://www.microingredients.com/pages/our-company?gad_source=1&gclid=Cj0KCQjwj9-zBhDyARIsAERjds1qGT5v_rVpX3wSDzpRVlRLmeyaNjzhtea0Y9blRyEnD4BULGxeJB0aAo_IEALw_wcB)!
 - [June 2022] Graduated from UCSB with a dual major in Mathematics and Statistics-Data Science!
-  
+
+## Publication
+**Anonymous**. *Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals*. Submitted to The Thirteenth International Conference on Learning Representations (ICLR), 2025. *Under review*.
+
 ## Projects
-### Foundation Model on Physiological Signals
-*Ongoing Project*  
-Utilized self-supervised learning paradigms to develop foundational models for multivariate time-series data, enabling superior performance in various downstream tasks such as prediction, anomaly detection, and classification.
 ### [Vivid Panels: Deep Neural Networks for Manga Colorization](https://github.com/yuc0805/Manga-Colorization)
 *Spring 2024*  
 Explored fine-tuning pre-trained GAN-based models for manga colorization, highlighting the performance gains achieved by addressing distribution differences between task-specific inputs and pre-training data.
