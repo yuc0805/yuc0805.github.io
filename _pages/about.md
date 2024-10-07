@@ -27,7 +27,7 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 
 ## Projects
 ### Examining Longitudinal Changes in Accelerometer-Measured Physical Activity in Preventing Cardiovascular Disease with Novel Function Data Analysis Approaches (Funded by NIH)
-*Summer 2024*
+*Summer 2024*     
 Advisor: Jingjing Zou
 ### [Vivid Panels: Deep Neural Networks for Manga Colorization](https://github.com/yuc0805/Manga-Colorization)
 *Spring 2024*  
