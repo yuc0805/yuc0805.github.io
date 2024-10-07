@@ -16,15 +16,17 @@ Education
 
 Work experience
 ======
+* Summer 2024: Graduate Student Researcher
+  * Halıcıoğlu Data Science Institute, UC San Diego  
+  * Examining Longitudinal Changes in Accelerometer-Measured Physical Activity in Preventing Cardiovascular Disease with Novel Function Data Analysis Approaches (Fund by NIH).
+  * Advisor: Jingjing Zou
+    
 * Spring 2024: Research Assistant
   * MOSAIC Lab
+  * Advisor: Tauhidur Rahman
   * Leveraging large language models (LLMs) for multimodal and multitask analysis on multivariate physiological signal datasets.
-  * Supervisor: Tauhidur Rahman
+  
 
-* Fall 2023: Research Assistant
-  * University of California, San Diego
-  * Training foundational models and fine-tune Large Vision Models (LVMs) for low-resource medical image datasets.
-  * Supervisor: Pengtao Xie
 
 
 Skills
