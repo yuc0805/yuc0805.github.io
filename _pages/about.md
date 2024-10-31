@@ -24,6 +24,7 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 
 ## Publication
 **Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**
+
 Yunfei Luo, **Yuliang Chen (Co-first author)**, Asif Salekin, Tauhidur Rahman. *(submitted to ICLR 2025)*
 
 
