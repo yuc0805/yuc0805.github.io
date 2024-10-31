@@ -23,9 +23,7 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 - [June 2022] Graduated from UCSB with a dual major in Mathematics and Statistics-Data Science!
 
 ## Publication
-**Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**
-
-Yunfei Luo, **Yuliang Chen (Co-first author)**, Asif Salekin, Tauhidur Rahman. *(submitted to ICLR 2025)*
+**Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**. Yunfei Luo, **Yuliang Chen (Co-first author)**, Asif Salekin, Tauhidur Rahman. *(submitted to ICLR 2025)*
 
 
 ## Projects
