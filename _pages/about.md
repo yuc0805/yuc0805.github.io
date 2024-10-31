@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Data Science Master's student at UC San Diego. My research interests lie at the intersection of machine learning, computer vision, and natural language processing. I focus primarily on multi-sensor fusion for foundation models, language-driven representation learning, self-supervised learning, and physiological signal analysis.
+I am a second-year Data Science Master's student at UC San Diego. My research interests lie at the intersection of machine learning, computer vision, and natural language processing. I focus primarily on multi-sensor fusion for foundation models, language-driven representation learning, self-supervised learning, and physiological signal analysis.
 
 You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.pdf).
 
@@ -23,7 +23,9 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 - [June 2022] Graduated from UCSB with a dual major in Mathematics and Statistics-Data Science!
 
 ## Publication
-**Anonymous**. *Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals*. Submitted to The Thirteenth International Conference on Learning Representations (ICLR), 2025. *Under review*.
+**Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**
+Yunfei Luo, **Yuliang Chen (Co-first author)**, Asif Salekin, Tauhidur Rahman. *(submitted to ICLR 2025)*
+
 
 ## Projects
 ### Examining Longitudinal Changes in Accelerometer-Measured Physical Activity in Preventing Cardiovascular Disease with Novel Function Data Analysis Approaches (Funded by NIH)
