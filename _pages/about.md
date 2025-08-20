@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Department of Computer Science at Dartmouth College. I am interested in using large language models, multimodal models, and agent systems for health data analysis. My focus is on developing methods that enable these models to handle continuous and noisy wearable sensor streams to infer health outcomes.
+I am a PhD student in the Department of Computer Science at Dartmouth College, advised by [Prof. Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/). Previously, I completed my M.S. in Data Science at the University of California, San Diego, where I worked with [Prof. Jingjing Zou](https://profiles.ucsd.edu/jingjing.zou) and [Prof. Tauhidur Rahman](https://www.tauhidurrahman.com/). 
+
+I am interested in using large language models, multimodal models, and agent systems for health data analysis. My focus is on developing methods that enable these models to handle continuous and noisy wearable sensor streams to infer health outcomes.
 
 You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.pdf).
 
@@ -16,6 +18,9 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 
 ## Recent News
 - [Sep 2025] Started PhD in Computer Science at Dartmouth College under the supervision of [Prof. Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/) !
+- [May 2024] Started working as Research Assistant under the supervision of [Prof. Jingjing Zou](https://profiles.ucsd.edu/jingjing.zou) and [Prof. Loki Natarajan](https://profiles.ucsd.edu/loki.natarajan)
+
+- [April 2024] Graduated with an M.S. in Data Science from the Halıcıoğlu Data Science Institute at UC San Diego.
 - [July 2024] Started working as a graduate student researcher under the supervision of [Prof. Jingjing Zou](https://profiles.ucsd.edu/jingjing.zou) on an NIH-funded project!
 - [March 2024] Joined [MOSAIC Lab](https://mosaic.cs.umass.edu/) as a Research Assistant, collaborating with [Yunfei Luo](https://yunfeiluo.github.io/) under the advisement of [Prof. Tauhidur Rahman](https://www.tauhidurrahman.com/)!
 - [September 2023] Began the Data Science Master's program at UCSD!
