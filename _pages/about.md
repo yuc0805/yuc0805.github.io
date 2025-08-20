@@ -24,6 +24,7 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 
 ## Publication
 [**Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**](https://arxiv.org/abs/2412.09758). Yunfei Luo, **Yuliang Chen (Co-first author)**, Asif Salekin, Tauhidur Rahman. 
+
 [**MoCA: Multi-modal Cross-masked Autoencoder for Digital Health Measurements**](https://arxiv.org/abs/2506.02260). Howon Ryu, **Yuliang Chen (Co-first author)**, Yacun Wang, Andrea Z. LaCroix,  Loki Natarajan, Yu Wang, Jingjing Zou.
 
 ## Projects
