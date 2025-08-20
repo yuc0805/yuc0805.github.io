@@ -16,6 +16,11 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 [Email](mailto:yuc204@ucsd.edu) / [Github](https://github.com/yuc0805) / [LinkedIn](https://www.linkedin.com/in/yuliang-chen-74666b236/)
 
 
+## Publication
+[**Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**](https://arxiv.org/abs/2412.09758). Yunfei Luo, **Yuliang Chen (Co-first author)**, Asif Salekin, Tauhidur Rahman. 
+
+[**MoCA: Multi-modal Cross-masked Autoencoder for Digital Health Measurements**](https://arxiv.org/abs/2506.02260). Howon Ryu, **Yuliang Chen (Co-first author)**, Yacun Wang, Andrea Z. LaCroix,  Loki Natarajan, Yu Wang, Jingjing Zou.
+
 ## Recent News
 - [Sep 2025] Joined the PhD program in Computer Science at Dartmouth College under the supervision of [Prof. Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/) !
 - [May 2025] Started working as Research Assistant under the supervision of [Prof. Jingjing Zou](https://profiles.ucsd.edu/jingjing.zou) and [Prof. Loki Natarajan](https://profiles.ucsd.edu/loki.natarajan)
@@ -26,11 +31,6 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 - [September 2023] Began the Data Science Master's program at UCSD!
 - [October 2022] Started working as a Supply Chain Analyst at [Micro Ingredients](https://www.microingredients.com/pages/our-company?gad_source=1&gclid=Cj0KCQjwj9-zBhDyARIsAERjds1qGT5v_rVpX3wSDzpRVlRLmeyaNjzhtea0Y9blRyEnD4BULGxeJB0aAo_IEALw_wcB)!
 - [June 2022] Graduated from UCSB with a dual major in Mathematics and Statistics-Data Science!
-
-## Publication
-[**Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**](https://arxiv.org/abs/2412.09758). Yunfei Luo, **Yuliang Chen (Co-first author)**, Asif Salekin, Tauhidur Rahman. 
-
-[**MoCA: Multi-modal Cross-masked Autoencoder for Digital Health Measurements**](https://arxiv.org/abs/2506.02260). Howon Ryu, **Yuliang Chen (Co-first author)**, Yacun Wang, Andrea Z. LaCroix,  Loki Natarajan, Yu Wang, Jingjing Zou.
 
 ## Projects
 ### [Vivid Panels: Deep Neural Networks for Manga Colorization](https://github.com/yuc0805/Manga-Colorization)
