@@ -15,7 +15,7 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 
 
 ## Recent News
-- [Sep 2025] Started PhD in Computer Science at Dartmouth College under the supervision of [Andrew Campbell][https://www.cs.dartmouth.edu/~campbell/] !
+- [Sep 2025] Started PhD in Computer Science at Dartmouth College under the supervision of [Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/) !
 - [July 2024] Started working as a graduate student researcher under the supervision of [Jingjing Zou](https://profiles.ucsd.edu/jingjing.zou) on an NIH-funded project!
 - [March 2024] Joined [MOSAIC Lab](https://mosaic.cs.umass.edu/) as a Research Assistant, collaborating with [Yunfei Luo](https://yunfeiluo.github.io/) under the advisement of [Professor Tauhidur Rahman](https://www.tauhidurrahman.com/)!
 - [September 2023] Began the Data Science Master's program at UCSD!
@@ -23,8 +23,8 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 - [June 2022] Graduated from UCSB with a dual major in Mathematics and Statistics-Data Science!
 
 ## Publication
-[**Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**][https://arxiv.org/abs/2412.09758]. Yunfei Luo, **Yuliang Chen (Co-first author)**, Asif Salekin, Tauhidur Rahman. 
-[**MoCA: Multi-modal Cross-masked Autoencoder for Digital Health Measurements**][https://arxiv.org/abs/2506.02260]. Howon Ryu, **Yuliang Chen (Co-first author)**, Yacun Wang, Andrea Z. LaCroix,  Loki Natarajan, Yu Wang, Jingjing Zou.
+[**Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**](https://arxiv.org/abs/2412.09758). Yunfei Luo, **Yuliang Chen (Co-first author)**, Asif Salekin, Tauhidur Rahman. 
+[**MoCA: Multi-modal Cross-masked Autoencoder for Digital Health Measurements**](https://arxiv.org/abs/2506.02260). Howon Ryu, **Yuliang Chen (Co-first author)**, Yacun Wang, Andrea Z. LaCroix,  Loki Natarajan, Yu Wang, Jingjing Zou.
 
 ## Projects
 ### [Vivid Panels: Deep Neural Networks for Manga Colorization](https://github.com/yuc0805/Manga-Colorization)
