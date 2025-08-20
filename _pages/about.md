@@ -17,7 +17,7 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 
 
 ## Recent News
-- [Sep 2025] Started PhD in Computer Science at Dartmouth College under the supervision of [Prof. Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/) !
+- [Sep 2025] Joined the PhD program in Computer Science at Dartmouth College under the supervision of [Prof. Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/) !
 - [May 2024] Started working as Research Assistant under the supervision of [Prof. Jingjing Zou](https://profiles.ucsd.edu/jingjing.zou) and [Prof. Loki Natarajan](https://profiles.ucsd.edu/loki.natarajan)
 
 - [April 2024] Graduated with an M.S. in Data Science from the Halıcıoğlu Data Science Institute at UC San Diego.
