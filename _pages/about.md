@@ -9,42 +9,34 @@ redirect_from:
 
 I am a PhD student in the Department of Computer Science at Dartmouth College, advised by [Prof. Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/). Previously, I completed my M.S. in Data Science at the University of California, San Diego, where I worked with [Prof. Jingjing Zou](https://profiles.ucsd.edu/jingjing.zou) and [Prof. Tauhidur Rahman](https://www.tauhidurrahman.com/). 
 
-I am interested in using large language models, multimodal models, and agent systems for health data analysis. My focus is on developing methods that enable these models to handle continuous and noisy wearable sensor streams to infer health outcomes.
+My research interests broadly lie in machine learning and artificial intelligence, with applications in digital health systems. I primarily focus on **representation learning** and **multimodal reasoning**, particularly for sensor data.
 
 You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.pdf).
 
-[Email](mailto:yuc204@ucsd.edu) / [Github](https://github.com/yuc0805) / [LinkedIn](https://www.linkedin.com/in/yuliang-chen-74666b236/)
+[Email](mailto:yuliang.chen.gr@dartmouth.edu) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=i9v1kPQAAAAJ) / [Github](https://github.com/yuc0805) / [LinkedIn](https://www.linkedin.com/in/yuliang-chen-74666b236/)
 
 
 ## Publication
-[**Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**](https://arxiv.org/abs/2412.09758). Yunfei Luo, **Yuliang Chen (Co-first author)**, Asif Salekin, Tauhidur Rahman. 
+<sub>\* denotes equal contribution.</sub>
 
-[**MoCA: Multi-modal Cross-masked Autoencoder for Digital Health Measurements**](https://arxiv.org/abs/2506.02260). Howon Ryu, **Yuliang Chen (Co-first author)**, Yacun Wang, Andrea Z. LaCroix,  Loki Natarajan, Yu Wang, Jingjing Zou.
+[**BALMS: Benchmarking Agentic LLMs for Longitudinal Mental Health Sensing**](https://arxiv.org/abs/2608.27219)  
+Yu Yvonne Wu, Arvind Pillai, **Yuliang Chen**, Yuwei Zhang, Sudarshan Regmi, Tess Z. Griffin, Michael V. Heinz, Lisa A. Marsch, Nicholas C. Jacobson, Andrew Campbell. *EMNLP*, 2026.
+
+[**Learning Transferable Sensor Models via Language-Informed Pretraining**](https://arxiv.org/abs/2603.11950)  
+**Yuliang Chen**, Arvind Pillai, Yu Yvonne Wu, Tess Z. Griffin, Lisa Marsch, Michael V. Heinz, Nicholas C. Jacobson, Andrew Campbell. *arXiv preprint*, 2026.
+
+[**Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**](https://arxiv.org/abs/2412.09758)  
+Yunfei Luo\*, **Yuliang Chen**\*, Asif Salekin, Tauhidur Rahman. *ACM Transactions on Computing for Healthcare (HEALTH)*, 2025.
+
+[**MoCA: Multi-modal Cross-masked Autoencoder for Digital Health Measurements**](https://arxiv.org/abs/2506.02260)  
+Howon Ryu\*, **Yuliang Chen**\*, Yacun Wang, Andrea Z. LaCroix, Loki Natarajan, Yu Wang, Jingjing Zou.
 
 ## Recent News
-- [Sep 2025] Joined the PhD program in Computer Science at Dartmouth College under the supervision of [Prof. Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/) !
-- [May 2025] Started working as Research Assistant under the supervision of [Prof. Jingjing Zou](https://profiles.ucsd.edu/jingjing.zou) and [Prof. Loki Natarajan](https://profiles.ucsd.edu/loki.natarajan)
+- [Sep 2025] Started my PhD in Computer Science at Dartmouth College, advised by [Prof. Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/).
+- [May 2025] Joined UC San Diego as a Research Assistant with [Prof. Jingjing Zou](https://profiles.ucsd.edu/jingjing.zou) and [Prof. Loki Natarajan](https://profiles.ucsd.edu/loki.natarajan).
+- [Apr 2025] Received my M.S. in Data Science from the Halıcıoğlu Data Science Institute at UC San Diego.
+- [Jul 2024] Joined an NIH-funded project as a Graduate Student Researcher with [Prof. Jingjing Zou](https://profiles.ucsd.edu/jingjing.zou).
+- [Mar 2024] Joined [MOSAIC Lab](https://mosaic.cs.umass.edu/) as a Research Assistant, working with [Yunfei Luo](https://yunfeiluo.github.io/) and [Prof. Tauhidur Rahman](https://www.tauhidurrahman.com/).
+- [Sep 2023] Began the M.S. in Data Science at UC San Diego.
+- [Jun 2022] Graduated from UC Santa Barbara with a dual major in Mathematics and Statistics & Data Science.
 
-- [April 2025] Graduated with an M.S. in Data Science from the Halıcıoğlu Data Science Institute at UC San Diego.
-- [July 2024] Started working as a graduate student researcher under the supervision of [Prof. Jingjing Zou](https://profiles.ucsd.edu/jingjing.zou) on an NIH-funded project!
-- [March 2024] Joined [MOSAIC Lab](https://mosaic.cs.umass.edu/) as a Research Assistant, collaborating with [Yunfei Luo](https://yunfeiluo.github.io/) under the advisement of [Prof. Tauhidur Rahman](https://www.tauhidurrahman.com/)!
-- [September 2023] Began the Data Science Master's program at UCSD!
-- [October 2022] Started working as a Supply Chain Analyst at [Micro Ingredients](https://www.microingredients.com/pages/our-company?gad_source=1&gclid=Cj0KCQjwj9-zBhDyARIsAERjds1qGT5v_rVpX3wSDzpRVlRLmeyaNjzhtea0Y9blRyEnD4BULGxeJB0aAo_IEALw_wcB)!
-- [June 2022] Graduated from UCSB with a dual major in Mathematics and Statistics-Data Science!
-
-## Projects
-### [Vivid Panels: Deep Neural Networks for Manga Colorization](https://github.com/yuc0805/Manga-Colorization)
-*Spring 2024*  
-Explored fine-tuning pre-trained GAN-based models for manga colorization, highlighting the performance gains achieved by addressing distribution differences between task-specific inputs and pre-training data.
-### [VitT: Vision-Topological Transformer for Medical Image Classification](https://github.com/j8chiu/PH_ImageClassification/tree/ViT_Branch)
-*Spring 2024*  
-Introduced the VitT model, strengthening Vision Transformer (ViT) with lightweight task-specific encoder and fusion layer, resulting in better performance with minimal computational cost.
-### [E-StyTR^2: Efficient Image Style Transfer with Transformers](https://github.com/yuc0805/Image_Style_Transfer)
-*Spring 2024*  
-Investigated various fusion modules based on StyTr2 to effectively blend style and content, evaluating their efficiency and aesthetic quality using quantitative metrics.
-### [Image-to-Image Retrieval with CLIP](https://github.com/yuc0805/Image-to-Image-Search-Using-CLIP)
-*Winter 2024*  
-Developed an image-to-image retrieval system using CLIP, demonstrating its superior ability to capture robust and generalized image representations compared to traditional CNNs like ResNet.
-### Navigating the Landscape of Explanation Multiplicity
-*Fall 2023*  
-Investigated the challenges and strategies related to explanation multiplicity in machine learning models, highlighting the implications of multiple explanations for model decisions and developing effective methods to manage them.
