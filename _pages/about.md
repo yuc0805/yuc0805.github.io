@@ -11,6 +11,8 @@ I am a PhD student in the Department of Computer Science at Dartmouth College, a
 
 My research interests broadly lie in machine learning and artificial intelligence, with applications in digital health systems. I primarily focus on **representation learning** and **multimodal reasoning**, particularly for sensor data.
 
+**I am actively looking for research internship opportunities for Summer 2027. Feel free to [reach out](mailto:yuliang.chen.gr@dartmouth.edu)!**
+
 You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.pdf).
 
 [Email](mailto:yuliang.chen.gr@dartmouth.edu) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=i9v1kPQAAAAJ) / [Github](https://github.com/yuc0805) / [LinkedIn](https://www.linkedin.com/in/yuliang-chen-74666b236/)
@@ -19,8 +21,8 @@ You can find my CV here: [Yuliang Chen's Curriculum Vitae](../assets/LeoChen_CV.
 ## Publication
 <sub>\* denotes equal contribution.</sub>
 
-[**BALMS: Benchmarking Agentic LLMs for Longitudinal Mental Health Sensing**](https://arxiv.org/abs/2608.27219)  
-Yu Yvonne Wu, Arvind Pillai, **Yuliang Chen**, Yuwei Zhang, Sudarshan Regmi, Tess Z. Griffin, Michael V. Heinz, Lisa A. Marsch, Nicholas C. Jacobson, Andrew Campbell. *EMNLP*, 2026.
+[**Lapras: Latent Reasoning for Time Series Language Models**](../assets/Lapras.pdf)  
+**Yuliang Chen**, Yu Yvonne Wu, Patrick Langer, Arvind Pillai, Sudarshan Regmi, Martin Maritsch, Juncheng Liu, Robert Jakob, Thomas Kaar, Tess Z. Griffin, Lisa Marsch, Michael V. Heinz, Nicholas C. Jacobson, Andrew Campbell. *Under review*, 2026.
 
 [**Learning Transferable Sensor Models via Language-Informed Pretraining**](https://arxiv.org/abs/2603.11950)  
 **Yuliang Chen**, Arvind Pillai, Yu Yvonne Wu, Tess Z. Griffin, Lisa Marsch, Michael V. Heinz, Nicholas C. Jacobson, Andrew Campbell. *arXiv preprint*, 2026.
@@ -30,6 +32,9 @@ Yunfei Luo\*, **Yuliang Chen**\*, Asif Salekin, Tauhidur Rahman. *ACM Transactio
 
 [**MoCA: Multi-modal Cross-masked Autoencoder for Digital Health Measurements**](https://arxiv.org/abs/2506.02260)  
 Howon Ryu\*, **Yuliang Chen**\*, Yacun Wang, Andrea Z. LaCroix, Loki Natarajan, Yu Wang, Jingjing Zou.
+
+[**BALMS: Benchmarking Agentic LLMs for Longitudinal Mental Health Sensing**](https://arxiv.org/abs/2608.27219)  
+Yu Yvonne Wu, Arvind Pillai, **Yuliang Chen**, Yuwei Zhang, Sudarshan Regmi, Tess Z. Griffin, Michael V. Heinz, Lisa A. Marsch, Nicholas C. Jacobson, Andrew Campbell. *EMNLP*, 2026.
 
 ## Recent News
 - [Sep 2025] Started my PhD in Computer Science at Dartmouth College, advised by [Prof. Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/).
